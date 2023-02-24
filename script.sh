@@ -1,1 +1,0 @@
-run echo Tru Recognition
